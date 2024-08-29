@@ -1,6 +1,6 @@
 ## Dipx
-Programa en python. 
-Para el escaneo y identificacion de los dispositivos conectado en la red.
+#Programa en python. 
+#Para el escaneo y identificacion de los dispositivos conectado en la red.
 
 Aquí tienes un listado de las dependencias utilizadas en el código junto con una breve descripción de sus funciones:
 
